@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CraftingGame.Core/CraftingGame.Core.csproj" />
+    <Project Path="src/CraftingGame.Game/CraftingGame.Game.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CraftingGame.Core.Tests/CraftingGame.Core.Tests.csproj" />
+  </Folder>
+</Solution>
